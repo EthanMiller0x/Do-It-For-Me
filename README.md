@@ -56,6 +56,10 @@ To demonstrate feasibility within the Hackathon context, we will demo the follow
 
 _Coming soon..._
 
+## 📖 Documentation
+
+- **[Technical Specification (SPEC.md)](./SPEC.md)** - Detailed technical documentation including architecture, API specs, data models, and implementation details
+
 ## 🚀 Getting Started
 
 _Coming soon..._
